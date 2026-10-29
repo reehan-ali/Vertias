@@ -1,0 +1,6 @@
+{
+  "name": "VERITAS - Autonomous Market Intelligence",
+  "description": "Multi-agent AI system for automated, citation-verified financial research and institutional reporting with audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
